@@ -45,6 +45,13 @@
   date: "Sept 13"
   time: "8:30 - 10:00am"
 
+- title: "Setting up MotionEyeOS on both a Pi 4 and Pi Zero"
+  group: "Central Iowa Linux Users Group"
+  location: "Right Stuf"
+  details_url: "https://www.cialug.org/?page_id=7&event_id=1099"
+  date: "Sept 15"
+  time: "7:00 - 8:30pm"
+  
 - title: "Don't Do What Led To My Largest Product Failures"
   group: "ProductTank Des Moines / Ames"
   location: "John Deere ISG"
